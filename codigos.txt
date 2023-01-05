@@ -1,0 +1,3 @@
+Ao longo do curso foi ensinado a utilizar os diversos códigos via terminal , códigos de inicialização do git , foi também ensinado alguns códigos básicos do SO linux .
+
+Porém o foco pricipal estava em ensinar os códigos do git no terminal, tais como : git diff, git add , git log ,git --global config user.name = "nome"  e etc.
