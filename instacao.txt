@@ -1,0 +1,1 @@
+Ao longo do curso foi ensinado como instalar o git , além de alguns detalhes de como é iniciado o git em um projeto , utilizando o comando git init pelo workdir escolhido , além de mostrar que a pasta do git fica oculta na pasta que foi iniciada.
