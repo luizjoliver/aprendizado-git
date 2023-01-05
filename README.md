@@ -1,1 +1,1 @@
-criação da branch master do projeto!
+projeto final do One bit code , este é a branch master , nesse repositório estará as branch e arquivos com detalhes do que ocorreu no curso.
